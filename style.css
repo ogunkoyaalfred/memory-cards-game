@@ -10,7 +10,7 @@ body {
     justify-content: center;
     grid-gap: 16px;
     grid-template-columns: repeat(6, 140px);
-    grid-template-rows: repeat(2, 14rem);
+    grid-template-rows: repeat(3, 14rem);
   }
   
   .card {
